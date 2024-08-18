@@ -1,4 +1,4 @@
- Project Name: Police System
+ ## Project Name: Police System
 
 Contains the principal components of the standard LAMP (Linux, Apache, MySQL, PHP) stack:
 - apache2 (web server)
