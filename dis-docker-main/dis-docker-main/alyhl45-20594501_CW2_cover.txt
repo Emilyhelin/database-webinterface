@@ -1,7 +1,4 @@
-alyhl45-20594501_CW2_cover
-name: Helin Lei
-student ID:20594501
-username:alyhl45
+
 URL:http://localhost/coursework2/cw2.php
 
 The origin of resources
