@@ -1,0 +1,11 @@
+alyhl45-20594501_CW2_cover
+name: Helin Lei
+student ID:20594501
+username:alyhl45
+URL:http://localhost/coursework2/cw2.php
+
+The origin of resources
+When implementing login function, I make reference from code in demo15.php.
+When implementing css, I make reference from code in exercise8.php.
+When implementing searching people by partial name function, I make reference from code in github. https://gist.github.com/branneman/951847/b7d072f3ec12a7ba009e8bbeb040ec4b0ec3bd9b
+When implementing logAudt function, I make reference from code in demo14.php.
