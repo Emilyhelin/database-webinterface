@@ -1,13 +1,4 @@
-/* Database for use with COMP4039-DIS Coursework 2 
- * 
- * Please note you do not have to use this.  If you find
- * it easier to use a database of your own design then
- * you are free to do so.  
- *
- * If you do use this database, use it as a starting point only.
- * You will not be able to complete the coursework without 
- * modifying it to some extent.
- */
+
  
 -- Host: mariadb
 -- Generation Time: Sep 21, 2023 at 12:46 PM
