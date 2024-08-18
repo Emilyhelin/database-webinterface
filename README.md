@@ -33,10 +33,3 @@ php-apache/ - contains the instructions to build the php-apache image
 
 ## URL
 URL:http://localhost/coursework2/cw2.php
-
-
-### How to run ###
-All files are in the jupyter notebook format. Therefore, just run the file from top to bottom unless specified in the above file structure diagram.
-
-### Reference ###
-[1] I. Triguero and M. Galar, Large-Scale Data Analytics with Python and Spark: A Hands-on Guide to Implementing Machine Learning Solutions. Cambridge: Cambridge University Press, 2024, pp. 229-240. 
